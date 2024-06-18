@@ -1,5 +1,29 @@
 # 💫 About Me:
-Hi there! I'm a passionate Software Developer and Data Engineer with a love for solving complex problems and building efficient, scalable systems. I enjoy diving into new technologies and constantly seek opportunities to learn and grow.<br>Professional Background<br><br>    Software Development: Experienced in various programming languages and frameworks, I enjoy crafting clean, maintainable code and developing robust applications.<br>    Data Engineering: I specialize in designing and implementing data pipelines, ensuring data integrity, and optimizing performance for large-scale data processing.<br><br>Interests<br><br>    Gaming: An avid gamer, I love exploring new worlds and challenging my skills in different genres.<br>    Motorbikes: I have a passion for motorbikes and enjoy the thrill of experimenting with new models and customizing my rides.<br>    TV Shows: A big fan of BoJack Horseman, I appreciate the blend of humor and deep, thought-provoking themes in the show.<br><br>Get in Touch<br><br>Feel free to reach out if you want to collaborate on a project, discuss tech trends, or share your favorite gaming experiences!
+<div style="display: flex; flex-direction: row-reverse; align-items: center;">
+    <div style="flex: 1;">
+        <p>
+            Hi there! I'm a passionate Software Developer and Data Engineer with a love for solving complex problems and building efficient, scalable systems. I enjoy diving into new technologies and constantly seek opportunities to learn and grow.
+        </p>
+        <p>
+            <strong>Professional Background</strong><br><br>
+            <strong>Software Development:</strong> Experienced in various programming languages and frameworks, I enjoy crafting clean, maintainable code and developing robust applications.<br>
+            <strong>Data Engineering:</strong> I specialize in designing and implementing data pipelines, ensuring data integrity, and optimizing performance for large-scale data processing.
+        </p>
+        <p>
+            <strong>Interests</strong><br><br>
+            <strong>Gaming:</strong> An avid gamer, I love exploring new worlds and challenging my skills in different genres.<br>
+            <strong>Motorbikes:</strong> I have a passion for motorbikes and enjoy the thrill of experimenting with new models and customizing my rides.<br>
+            <strong>TV Shows:</strong> A big fan of BoJack Horseman, I appreciate the blend of humor and deep, thought-provoking themes in the show.
+        </p>
+        <p>
+            <strong>Get in Touch</strong><br><br>
+            Feel free to reach out if you want to collaborate on a project, discuss tech trends, or share your favorite gaming experiences!
+        </p>
+    </div>
+    <div style="flex: 1;">
+        <img src='https://media4.giphy.com/media/UFGj6EYw5JhMQ/200.webp?cid=790b7611bp8m4h73k59l521s77hkz8rovkha40q0fj4i0emh&ep=v1_gifs_search&rid=200.webp&ct=g' style="height: 400px; float: right; margin-left: 20px;">
+    </div>
+</div>
 
 
 ## 🌐 Socials:
@@ -21,7 +45,7 @@ Hi there! I'm a passionate Software Developer and Data Engineer with a love for 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aadityamagic&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+### Meme Corner
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE0c2ozMnFtMmZxZXZoM2FlczY1d2M5NDBxM29lMHRldDQ5YmozaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.webp' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
