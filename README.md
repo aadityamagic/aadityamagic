@@ -2,18 +2,18 @@
 <div style="display: flex; flex-direction: row-reverse; align-items: center;">
     <div style="flex: 1;">
         <p>
-            Hi there! I'm a passionate Software Developer and Data Engineer with a love for solving complex problems and building efficient, scalable systems. I enjoy diving into new technologies and constantly seek opportunities to learn and grow.
+            Hello There!! I'm a Data Engineer and Software Developer  who loves to solve complex problems and build great,efficient and scalable system, I enjoy learning new technologies and constantly seek opportunities to learn and grow.
         </p>
         <p>
             <strong>Professional Background</strong><br><br>
-            <strong>Software Development:</strong> Experienced in various programming languages and frameworks, I enjoy crafting clean, maintainable code and developing robust applications.<br>
-            <strong>Data Engineering:</strong> I specialize in designing and implementing data pipelines, ensuring data integrity, and optimizing performance for large-scale data processing.
+            <strong>Software Development:</strong> Experienced in python and java programming languages and frameworks, I enjoy writing clean, maintainable code and developing robust applications.<br>
+            <strong>Data Engineering:</strong> I am also experienced in designing and implementing data pipelines, ensuring data integrity, and optimizing performance for large-scale data processing in hadoop and spark ecosystem.
         </p>
         <p>
             <strong>Interests</strong><br><br>
-            <strong>Gaming:</strong> An avid gamer, I love exploring new worlds and challenging my skills in different genres.<br>
-            <strong>Motorbikes:</strong> I have a passion for motorbikes and enjoy the thrill of experimenting with new models and customizing my rides.<br>
-            <strong>TV Shows:</strong> A big fan of BoJack Horseman, I appreciate the blend of humor and deep, thought-provoking themes in the show.
+            <strong>Gaming:</strong> Everynow and then I like to take time for myself and take break and play some mobile legends and dota2 <br>
+            <strong>Sports:</strong> I am a adrenaline junkie and likes to raft, kayak and motorbike. I also play basketball to get some cardio. <br>
+            <strong>Cartoons and Animes:</strong> A big fan of BoJack Horseman and down for any good anime or cartoon.
         </p>
         <p>
             <strong>Get in Touch</strong><br><br>
