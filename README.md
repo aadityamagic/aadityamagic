@@ -10,12 +10,6 @@
             <strong>Data Engineering:</strong> I am also experienced in designing and implementing data pipelines, ensuring data integrity, and optimizing performance for large-scale data processing in hadoop and spark ecosystem.
         </p>
         <p>
-            <strong>Interests</strong><br><br>
-            <strong>Gaming:</strong> Everynow and then I like to take time for myself and take break and play some mobile legends and dota2 <br>
-            <strong>Sports:</strong> I am a adrenaline junkie and likes to raft, kayak and motorbike. I also play basketball to get some cardio. <br>
-            <strong>Cartoons and Animes:</strong> A big fan of BoJack Horseman and down for any good anime or cartoon.
-        </p>
-        <p>
             <strong>Get in Touch</strong><br><br>
             Feel free to reach out if you want to collaborate on a project, discuss tech trends, or share your favorite gaming experiences!
         </p>
